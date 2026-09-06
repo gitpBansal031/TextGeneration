@@ -84,7 +84,7 @@ Description:
 def home():
     return {
         "status": "success",
-        "message": "Ad Generator API is running."
+        "message": "Text Generator API is running."
     }
 
 
