@@ -30,7 +30,7 @@ You are an expert advertising copywriter.
 Your task is to convert the product information below into a compelling advertisement script suitable for a 30-second voiceover.
 
 STRICT RULES:
-1. The script MUST be between 60 and 85 words. NEVER exceed 85 words.
+1. The script MUST be between 50 and 60 words. NEVER exceed 60 words.
 2. Use ONLY the information provided below. Do NOT invent, assume, exaggerate, or add any features, specifications, discounts, offers, warranties, or claims.
 3. Focus only on the strongest and most unique selling points.
 4. If the description is lengthy, identify and prioritize the most important features instead of trying to include everything.
